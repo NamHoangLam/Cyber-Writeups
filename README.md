@@ -1,2 +1,5 @@
-# Cyber-Writeups
-Write-ups of puzzles, labs and exercises from my cyber security learning
+# Cyber Security Write-ups
+
+Write-ups from my learning: puzzles, labs and exercises.
+
+- [ASD "Can You Crack the Code?" puzzle (Oct 2026)](asd-crack-the-code-puzzle.md)
