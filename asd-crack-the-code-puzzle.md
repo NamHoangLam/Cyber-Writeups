@@ -65,6 +65,4 @@ Now if I take a look at line 2, there is one correct coloured pin in the correct
 
 Finally, by hard rule 1, I am left with green in the remaining slot.
 
-Sorry for the long one - I just had an urge to write it all out.
-
 </details>
