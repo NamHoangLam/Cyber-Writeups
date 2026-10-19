@@ -29,7 +29,7 @@ There are some hard rules I can state:
 
 ### Lines 3 and 4
 
-I will denote the top line as Line 1, and each following line to be a line of the next number. Taking a look at lines 3 and 4, according to the pins there are 2 valid colours in each line. There are many combinations of valid colours that satisfy the pins:
+Taking a look at lines 3 and 4, according to the pins there are 2 valid colours in each line. There are many combinations of valid colours that satisfy the pins:
 
 - Red White
 - Red Blue
