@@ -40,7 +40,7 @@ Taking a look at lines 3 and 4, according to the pins there are 2 valid colours 
 
 Taking a look at the first 3 pairs, what happens when checking against lines 3 and 4, 3 colours become invalid. E.g. If we assume Red and White to be valid colours, against line 3 Blue and Green can't be valid colours, and looking at line 4, Yellow is also not a valid colour. In total that is 3 invalid colours, which contradicts the 3rd hard rule. This contradiction occurs in all 3 pair possibilities.
 
-So I am left with the possible triplets of Red Green Yellow, White Green Yellow, and Blue Green Yellow. Also note that in each of these triplets, there are 2 invalid colours. E.g. For Red Green Yellow, Blue and White are invalid. So rather than triplets, we can confirm 3 of the 4 colours - Black, Green and Yellow - with the 4th being red, white or blue.
+So I am left with the possible triplets of Red Green Yellow, White Green Yellow, and Blue Green Yellow. Also note that in each of these triplets, there are 2 invalid colours. E.g. For Red Green Yellow, Blue and White are invalid. So for each triplet, we can confirm 3 of the 4 colours - Black, Green and Yellow - with the 4th being red, white or blue.
 
 ### Testing the 4th colour
 
