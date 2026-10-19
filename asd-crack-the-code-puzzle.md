@@ -23,7 +23,7 @@ Now that I am at my desk, I have the mental and workable space to write the comp
 
 There are some hard rules I can state:
 
-1. This is a 4 colour solution.
+1. There is a 4 colour solution.
 2. There are 6 possible colours.
 3. From 1 and 2, we can now say that there are 2 invalid colours.
 
